@@ -1,0 +1,3 @@
+# Boxplot:
+
+- Visualização gráfica da distribuicao de PSI dos pacientes controles contra o paciente e destacando seu PSI em vermelho -> salvando em JPEG com alta qualidade

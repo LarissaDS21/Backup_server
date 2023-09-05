@@ -1,0 +1,4 @@
+#Pipelines para:
+
+- Alinhamento no STAR com os mesmos parâmetros utilizados pelo rMATS;
+- Rodar a ferramenta rMATS a partir dos BAMs gerados no pipeline anterior.

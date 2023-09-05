@@ -1,0 +1,5 @@
+# Notebooks para:
+
+- Merged_tables (.JC e .JCEC): unir as 5 tabelas para os respetivos 5 eventos de splicing principais;
+- Eventos significativos (.JC e .JCEC ): filtros para capturar eventos de splice significativos, baseados: pvalue, FDR e IncDiffLevel;
+- Boxplot: criar uma tabela rotulada para a respectiva amostra apenas com as info essenciais para posteriormente fazer o gráfico de boxplot e PSI dos controles separados por colunas.
