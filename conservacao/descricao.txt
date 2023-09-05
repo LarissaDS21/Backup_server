@@ -1,0 +1,3 @@
+# Pipeline para:
+
+- Extrair informações informações de frequencia alelica do gnomAD, ExAC e 1000G além de extrair info dos preditores de conservação GERP+ e PhyloP
